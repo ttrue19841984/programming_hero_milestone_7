@@ -1,0 +1,28 @@
+[
+    {
+      "Id": 1,
+      "name": "Apple Watch Series 6",
+      "price": 399.99
+    },
+    {
+      "Id": 2,
+      "name": "Samsung Galaxy Watch 4",
+      "price": 249.99
+    },
+    {
+      "Id": 3,
+      "name": "Fitbit Versa 3",
+      "price": 229.95
+    },
+    {
+      "Id": 4,
+      "name": "Garmin Fenix 6 Pro",
+      "price": 649.99
+    },
+    {
+      "Id": 5,
+      "name": "Fossil Gen 5",
+      "price": 249.00
+    }
+  ]
+  
